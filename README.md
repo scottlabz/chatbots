@@ -1,3 +1,7 @@
+![Alt text](https://github.com/scottlabz/chatbots/blob/main/chatbots.png "Chatbots")
+
+Experimenting with Chatbots
+
 chatbots
 - https://chatgpt.com/
 - https://claude.ai/
