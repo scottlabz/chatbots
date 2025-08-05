@@ -8,5 +8,4 @@ chatbots
 - https://gemini.google.com/app
 - https://www.perplexity.ai/
 - https://copilot.microsoft.com/
-- https://www.meta.ai/
 - https://grok.com/
